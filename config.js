@@ -8,19 +8,19 @@ global.zApiKey = {// if this API key get expired then please go to https://www.f
 }
 
 
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.botname = process.env.BotName || "අයේෂ් බබා " 
+global.author = process.env.Author || "අයේෂ්බ බා " 
+global.packname = process.env.PackName || "අයේෂ් බබා " 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "© අයේෂ් බබා Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
-global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.ownername = process.env.Owner_Name || "අයේෂ් බබා " 
+global.ownernumber = process.env.Owner_Number || "94775341543" 
+global.adress = process.env.Continent || "Sri lanka,colombo" 
+global.timezone = process.env.TimeZone || "Asia/colombo" 
+global.instagramId = process.env.Insta || "අයේෂ් බබා " 
+global.email = process.env.Email_Id || "ayeshmax032@gmail.com" 
 
 global.mongoUrl = process.env.MongoDB || "Enter"; 
 
@@ -101,19 +101,19 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  botname: process.env.BotName || "අයේෂ් බබා ", 
+  author: process.env.Author || "DARK PODDA",
+  packname: process.env.PackName || "අයේෂ් බබා ",
   myweb: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  footer: process.env.Footer || "© අයේෂ් බබා Bot",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
-  adress: process.env.Continent || "Asia, India, Assam",
-  timezone: process.env.TimeZone || "Asia/Kolkata", 
+  ownernumber: process.env.Owner_Number || "94775341543",
+  adress: process.env.Continent || "SRI LANKA, COLOMBO",
+  timezone: process.env.TimeZone || "Asia/colombo", 
   instagramId: process.env.Insta || "8.08_only_mine",
-  email: process.env.Email_Id || "example@example.com",
+  email: process.env.Email_Id || "ayeshmax032@gmail.com",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "Enter",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
