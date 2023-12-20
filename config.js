@@ -16,7 +16,7 @@ global.footer = process.env.Footer || "© අයේෂ් බබා Bot"
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "අයේෂ් බබා " 
-global.ownernumber = process.env.Owner_Number || "94775341543" 
+global.ownernumber = process.env.Owner_Number || "94741022500" 
 global.adress = process.env.Continent || "Asia/Kolkata" 
 global.timezone = process.env.TimeZone || "Asia/colombo" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
@@ -109,7 +109,7 @@ module.exports = {
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "අයේෂ් බබා ",
-  ownernumber: process.env.Owner_Number || "94775341543",
+  ownernumber: process.env.Owner_Number || "94741022500",
   adress: process.env.Continent || "Asia/Kolkata ",
   timezone: process.env.TimeZone || "Asia/colombo", 
   instagramId: process.env.Insta || "8.08_only_mine",
@@ -120,7 +120,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "ZmFBWmN_Queen-Anya_qZkE= ", 
+  sessionId: process.env.SESSION_ID || "RkVNYWd_Queen-Anya_LeUc= ", 
   auto_read_status : process.env.AUTO_READ_STATUS || "true",
   alwaysonline: process.env.ALWAYS_ONLINE || "true", 
   readmessage: process.env.READ_MESSAGE || "true", 
