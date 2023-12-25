@@ -8,15 +8,15 @@ global.zApiKey = {// if this API key get expired then please go to https://www.f
 }
 
 
-global.botname = process.env.BotName || "අයේෂ් බබා " 
+global.botname = process.env.BotName || "සුදු මල්ලි " 
 global.author = process.env.Author || "@අයේෂ් බබා "
-global.packname = process.env.PackName || "අයේෂ් බබා " 
+global.packname = process.env.PackName || "සුදු මල්ලි " 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© අයේෂ් බබා Bot" 
+global.footer = process.env.Footer || "©සුදු මල්ලි " 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "අයේෂ් බබා " 
-global.ownernumber = process.env.Owner_Number || "94741022500" 
+global.ownername = process.env.Owner_Name || "සුදු මල්ලි " 
+global.ownernumber = process.env.Owner_Number || "94775341543" 
 global.adress = process.env.Continent || "Asia/Kolkata" 
 global.timezone = process.env.TimeZone || "Asia/colombo" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
@@ -101,15 +101,15 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "අයේෂ් බබා ", 
+  botname: process.env.BotName || "සුදු මල්ලි ", 
   author: process.env.Author || "@අයේෂ් බබා ",
-  packname: process.env.PackName || "අයේෂ් බබා ",
+  packname: process.env.PackName || "සුදු මල්ලි ",
   myweb: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© අයේෂ් බබා Bot",
+  footer: process.env.Footer || "© සුදු මල්ලි ",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "අයේෂ් බබා ",
-  ownernumber: process.env.Owner_Number || "94741022500",
+  ownername: process.env.Owner_Name || "සුදු මල්ලි ",
+  ownernumber: process.env.Owner_Number || "94775341543",
   adress: process.env.Continent || "Asia/Kolkata ",
   timezone: process.env.TimeZone || "Asia/colombo", 
   instagramId: process.env.Insta || "8.08_only_mine",
@@ -120,7 +120,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "RkVNYWd_Queen-Anya_LeUc= ", 
+  sessionId: process.env.SESSION_ID || "NGNYeDB_Queen-Anya_3aTE= ", 
   auto_read_status : process.env.AUTO_READ_STATUS || "true",
   alwaysonline: process.env.ALWAYS_ONLINE || "true", 
   readmessage: process.env.READ_MESSAGE || "true", 
